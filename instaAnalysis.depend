@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623343140 source:c:\users\ata_k\onedrive\masaüstü\cng213 a3\instaanalysis\instaanalysis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"queue.h"
+	"avltree.h"
+
+1623231538 c:\users\ata_k\onedrive\masaüstü\cng213 a3\instaanalysis\queue.h
+	"avltree.h"
+
+1623327980 c:\users\ata_k\onedrive\masaüstü\cng213 a3\instaanalysis\avltree.h
+
